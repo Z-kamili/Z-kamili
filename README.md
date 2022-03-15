@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a web developer
-- 🌱 I’m currently learning VueJs
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with Improve my projects
 - 💬 Ask me about PHP , Laravel or any tech related stuff
