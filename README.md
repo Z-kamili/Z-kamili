@@ -1,16 +1,7 @@
-### Hello, I'm zakaria kamili 👋
-
-
-- 🔭 I’m currently working as a web developer
-- 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m looking for help with Improve my projects
-- 💬 Ask me about PHP/Js  or any tech related stuff
-- 📫 How to reach me: Twitter - zakariakamili97
-- 😄 Pronouns: He/His
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zakaria</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
+<h3 align="center">I'm a Full Stack Developer from Morocco.</h3>
 
 ### Hello, I'm zakaria kamili 👋
 
@@ -38,7 +29,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://v2.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/Laravel.png"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/color/48/48/Laravel.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
