@@ -28,7 +28,7 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://v2.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
+    <a href="https://v2.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     
      <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/48/php.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
