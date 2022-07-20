@@ -5,7 +5,7 @@
 
 ### Hello, I'm zakaria kamili 👋
 
-- 🔭 I’m currently working as a web developer
+- 🔭 youtube channel -  https://www.youtube.com/channel/UCnNcvF8WYNnAfcMIRrlaDQw
 
 
 - 👯 I’m looking to collaborate on opensource projects
@@ -20,6 +20,8 @@
 
 
 - 😄 Pronouns: He/His
+
+- 
 
 
 
