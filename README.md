@@ -21,7 +21,6 @@
 
 - 😄 Pronouns: He/His
 
-- 
 
 
 
