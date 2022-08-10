@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zakaria</h1>
 <h3 align="center">I'm a Backend Developer from Morocco.</h3>
 
-### Hello, I'm zakaria kamili 👋
+### Hello, I'm ziko  kamili 👋
 
 - 🔭 youtube channel -  https://www.youtube.com/channel/UCnNcvF8WYNnAfcMIRrlaDQw
 
