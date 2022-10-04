@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on opensource projects
 
-- 🤔 I’m looking for help with Improve my projects
-
 
 - 💬 Ask me about PHP/Js  or any tech related stuff
 
