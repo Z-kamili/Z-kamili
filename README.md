@@ -5,7 +5,7 @@
 
 ### Hello, I'm ziko  kamili 👋
 
-- 🔭 youtube channel -  https://www.youtube.com/channel/UCnNcvF8WYNnAfcMIRrlaDQw
+- 🔭 Instagram -  https://www.instagram.com/kamili_zakaria
 
 
 - 👯 I’m looking to collaborate on opensource projects
