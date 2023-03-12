@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm kamili</h1>
 <h3 align="center">I'm a web & Mobile Developer , I graduated from SAFI University in 2021</h3>
 
-### Hello, I'm ziko  kamili 👋
+### Hello, I'm Zakaria  kamili 👋
 
 - 🔭 Instagram -  https://www.instagram.com/kamili_zakaria
 
