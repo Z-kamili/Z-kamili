@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 
 
-- 💬 Ask me about PHP/Js  or any tech related stuff
+- 💬 Ask me about PHP/Js/python/Java/C#/React/Angular...  or any tech related stuff
 
 
 - 📫 How to reach me: Twitter - zakariakamili97
