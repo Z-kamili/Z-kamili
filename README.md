@@ -5,16 +5,13 @@
 
 ### Hello, I'm Zakaria  kamili 👋
 
-- 🔭 Instagram -  https://www.instagram.com/kamili_zakaria
+- 🔭 How to reach me: Twitter - [https://twitter.com/zakariakamili97]
 
 
 - 👯 I’m looking to collaborate on opensource projects
 
 
 - 💬 Ask me about PHP/Js/python/Java/C#/React/Angular...  or any tech related stuff
-
-
-- 📫 How to reach me: Twitter - zakariakamili97
 
 
 - 😄 Pronouns: He/His
