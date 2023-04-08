@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakaria kamili</h1>
 <h3 align="center">I'm a web & Mobile Developer , I graduated from SAFI University in 2021, My department is Software Engineering.</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
-
 - 👯 I’m looking to collaborate on **opensource projects**
 
 - 👨‍💻 All of my projects are available at [https://zikodev.com](https://zikodev.com)
